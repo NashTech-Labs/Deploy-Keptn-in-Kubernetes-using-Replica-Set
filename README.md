@@ -4,7 +4,7 @@ The Keptn project began as a way to assist enterprises in adopting cloud-native 
 ## Pre-Requisites:
 Kubctl with atleast one node should be present. OR Minikube should be installed.
 
-## Workings steps to Deploy Keptn with Replication Controller:
+## Workings steps to Deploy Keptn with Replica Set:
 
 - Deploy keptn rs with (default 3 replicas) following command.
 ```
