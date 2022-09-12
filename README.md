@@ -1,4 +1,4 @@
-# Deploy-Keptn-Using-K8s
+# Deploy-Keptn-in-K8s-using-Replica-Set
 The Keptn project began as a way to assist enterprises in adopting cloud-native strategies for either cutting-edge microservice applications or long-standing monoliths. This ecosystem has been evolving since its inception, focusing on robust continuous delivery with automated testing, quality gates, and auto-remediation capabilities. It now has over 50.
 
 ## Pre-Requisites:
